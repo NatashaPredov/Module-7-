@@ -21,4 +21,7 @@ Following the data model made in Data_Modeling.mpt the data types are as followe
 7. cardholder_id - int
 - define the primary and foregin keys for the database
 For reference a primary key surrounds the attribute that makes a table unique. A foreign key on the other hand helps to determine relationships between tables. A foreign key is a column(s) who relates to a column in another table. 
+
+In this case the foreign key is ID, as it is the common column that connects each of the tables to eachother. I do not think there is a primary key in this case. 
+
 - produce the final database diagram 
