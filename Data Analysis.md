@@ -43,5 +43,7 @@ Do you notice any anomalies? Describe your observations and conclusions.
 
 # Required: 
 Identify fraudulent transactions. (10 points)
+
 Utilize SQL and Pandas DataFrames for a report within Jupyter Notebook. (10 points)
+
 Provide a visual data analysis of fraudulent transactions using Pandas, hvPlot, and SQLAlchemy to create the visualizations. (10 points)
